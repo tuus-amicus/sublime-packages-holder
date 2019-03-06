@@ -1,0 +1,36 @@
+// SublimeLinter Settings - User
+{
+
+    "debug": false,
+    "delay": 0.25,
+    "gutter_theme": "none",
+    "lint_mode": "background",
+    "linters": {
+        "pep8": {
+            "@disable": false,
+            "args": [],
+            "enable": "",
+            "excludes": [],
+            "ignore": "",
+            "max-line-length": null,
+            "rcfile": "",
+            "select": ""
+        }
+    },
+    "no_column_highlights_line": false,
+    "paths": {
+        "linux": [],
+        "osx": [
+            "/usr/local/bin/"
+        ],
+        "windows": []
+    },
+    "show_marks_in_minimap": true,
+    "syntax_map": {
+        "html (django)": "html",
+        "html (rails)": "html",
+        "html 5": "html",
+        "php": "html",
+        "python django": "python"
+    },
+}

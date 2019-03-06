@@ -1,0 +1,9 @@
+[
+	{
+		"keys": ["command+shift+;"],
+		"command": "reindent",
+		"args": {
+			"single_line": false
+		}
+	}
+]

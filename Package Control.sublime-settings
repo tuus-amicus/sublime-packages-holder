@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"Indent XML",
+		"Jade",
+		"Jedi - Python autocompletion",
+		"Jedi Syntax",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"Python Create Package",
+		"Python Fix Imports",
+		"Python Imports Sorter",
+		"Python PEP8 Autoformat",
+		"PythonTraceback",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-pycodestyle"
+	]
+}

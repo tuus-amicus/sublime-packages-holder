@@ -1,0 +1,25 @@
+{
+	"auto_complete_delay": 5,
+	"auto_complete_selector": "source, text",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+	"create_window_at_startup": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"material_theme_accent_scrollbars": true,
+	"material_theme_accent_titlebar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
+	"material_theme_titlebar": true,
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		80
+	],
+	"show_encoding": true,
+	"theme": "Material-Theme-Palenight.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
+}
