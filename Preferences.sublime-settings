@@ -3,7 +3,7 @@
 	"auto_complete_selector": "source, text",
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"create_window_at_startup": false,
-	"font_size": 14,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
